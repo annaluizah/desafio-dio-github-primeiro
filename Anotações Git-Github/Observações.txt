@@ -1,0 +1,4 @@
+git status
+git add . ou -A : Adiciona todos os arquivos
+git commit -m "Comentário aqui"
+git push origin main : envia todos os commits pro github
